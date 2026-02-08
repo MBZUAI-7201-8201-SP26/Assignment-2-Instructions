@@ -18,7 +18,7 @@ Please read it carefully before starting!
 
 ## Part 1: Do the Lab (Similar to Assignment 1)
 
-1. (Same as Assignment 1) Sign up at https://classroom.github.com/a/_k75MDZx and accept the invitation sent to your GitHub account email address.
+1. (Similar to Assignment 1) Accept the assignment at https://classroom.github.com/a/_k75MDZx and also accept the invitation sent to your GitHub account email address.
 
 1. Read the Lab 1 instructions here:
    https://github.com/tenstorrent/tt-metal/blob/main/docs/source/tt-metalium/tt_metal/labs/matmul/lab2/lab2.rst
