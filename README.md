@@ -16,7 +16,7 @@ Please read it carefully before starting!
 2. If you believe the card needs a reset due to buggy programs, you can run `tt-smi --reset`. This will reset all the cards on the machine, so use with responsibility.
 3. Rememember you need to have the python environment active if you would like to use `tt-smi` commands, or the python packages of `tt-metal`.
 
-## Part 1: Do the Lab (Similar to Assignment 1)
+## Part 1: Do the Lab 
 
 1. (Similar to Assignment 1) Accept the assignment at https://classroom.github.com/a/_k75MDZx and also accept the invitation sent to your GitHub account email address.
 
@@ -31,7 +31,7 @@ Please read it carefully before starting!
    - **Exercise 1:** Implement matrix multiplication on multiple Tensix cores by modifying your Lab 1 solution.
    - **Exercise 2:** Implement a blocked multi core matrix multiplication with data reuse on the device.
      
-## Part 2: Cross-Validation (Peer Review) (10 Points)
+## Part 2: Cross-Validation (Peer Review) 
 
 You will be randomly assigned with another classmate (details will be announced later).
 
@@ -39,10 +39,10 @@ For cross-validation, you will:
 
 1. Grant access to the classmate you are assigned to.
 1. Follow your assigned classmate’s `README.md` and try to reproduce their results.
-1. Check whether your output matches what they claim.
-1. Note down if something does not work or if the results does not match with the evidence provided.
-1. Save evidence of your cross validation attempts and open a pull request on your assigned classmate's repo.
-1. Feel free to use the checklist below!
+1. Check whether your output matches what they claim. Note down if something does not work or if the results does not match with the evidence provided.
+1. Save evidence of your cross validation attempts and open an issue on your assigned classmate's repo with these evidences.
+1. Use the Part 1 checklist below in your opened issue and feel free to add comments or questions.
+1. You can also reply to the issue opened by your assignmed classmate in your own repo.
    
 ---
 
