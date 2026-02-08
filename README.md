@@ -2,9 +2,9 @@
 Instructions for Assignment 2
 
 This document explains:
-- how to join the GitHub Classroom,
-- what you need to complete for Lab 2, and
-- how the cross-validation (peer check) works.
+- how to accept the assignment,
+- what you need to complete for Assignment 2, and
+- how the cross-validation (peer check) works for Assignment 2.
 
 Please read it carefully before starting!
 
@@ -20,7 +20,7 @@ Please read it carefully before starting!
 
 1. (Similar to Assignment 1) Accept the assignment at https://classroom.github.com/a/_k75MDZx and also accept the invitation sent to your GitHub account email address.
 
-1. Read the Lab 1 instructions here:
+1. Read the Lab 2 instructions here:
    https://github.com/tenstorrent/tt-metal/blob/main/docs/source/tt-metalium/tt_metal/labs/matmul/lab2/lab2.rst
    
 3. Complete the exercises by following the instructions in the lab document.
