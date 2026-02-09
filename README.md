@@ -25,10 +25,10 @@ Please read it carefully before starting!
    
 3. Complete the exercises by following the instructions in the lab document.
 
-4. Save evidence that your code runs correctly, such as terminal outputs, logs, screenshots etc.
+4. Save evidence that your code runs correctly, such as terminal outputs, logs, screenshots etc. In particular, do not forget to include the statistics and plots required in the exercises.
 
 5. You will need to submit your source codes for the two following exercises particularly:
-   - **Exercise 1:** Implement matrix multiplication on multiple Tensix cores by modifying your Lab 1 solution.
+   - **Exercise 1:** Implement matrix multiplication on multiple Tensix cores by modifying your Lab 1 solution. 
    - **Exercise 2:** Implement a blocked multi core matrix multiplication with data reuse on the device.
      
 ## Part 2: Cross-Validation (Peer Review) 
@@ -52,10 +52,10 @@ For cross-validation, you will:
 
 - ⬜ Completed **Exercise 1** (matrix multiplication on multiple Tensix cores)
 - ⬜ Completed **Exercise 2** (blocked multi core matrix multiplication with data reuse)
-- ⬜ Saved run evidence (logs, terminal output, screenshots, etc.)
+- ⬜ Saved run evidence (logs, terminal output, screenshots, etc.) and the required plots.
 - ⬜ **Exercise 1** matches the reference implementation
 - ⬜ **Exercise 2** matches the reference implementation
-- ⬜ Clear instructions to reproduce your results
+- ⬜ Clear instructions to reproduce the results
 - ⬜ All work committed and pushed to your GitHub Classroom repository
 
 ### Part 2: Cross-Validation
